@@ -2,7 +2,9 @@
 Results-driven Data Analyst with 3+ years of experience designing, developing, and deploying business intelligence solutions. Expertise in Tableau, Power BI, SQL, Python, and big data analytics. Proven track record in building interactive dashboards and reports that tell compelling stories, enabling data-driven decision-making. Skilled in understanding complex business requirements and delivering high-quality solutions. Certified in Tableau and Power BI, strongly committed to data quality, management, and visualization excellence.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/ramashish-sahani-172a82195) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ramashishsahani786) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](www.youtube.com/@ramashishsahani4099) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/ramashish-sahani-172a82195) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ramashishsahani786) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ramashishsahani4099) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
