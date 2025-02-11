@@ -27,6 +27,11 @@ Results-driven Data Analyst with 3+ years of experience designing, developing, a
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+### You can find some of my best projects here.
+https://github.com/ramashish786/Rental-Movie-Store-Analysis
+https://github.com/ramashish786/Project
+https://github.com/ramashish786/Machine-Learning-Project
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ramashish786&theme=swift&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramashish786&theme=swift&hide_border=false)<br/>
