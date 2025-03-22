@@ -1,5 +1,5 @@
 ## About Me 
-Results-driven Data Analyst with 3+ years of experience designing, developing, and deploying business intelligence solutions. Expertise in Tableau, Power BI, SQL, Python, and big data analytics. Proven track record in building interactive dashboards and reports that tell compelling stories, enabling data-driven decision-making. Skilled in understanding complex business requirements and delivering high-quality solutions. Certified in Tableau and Power BI, strongly committed to data quality, management, and visualization excellence.
+Results-driven Data Analyst with 4+ years of experience designing, developing, and deploying business intelligence solutions. Expertise in Tableau, Power BI, SQL, Python, and big data analytics. Proven track record in building interactive dashboards and reports that tell compelling stories, enabling data-driven decision-making. Skilled in understanding complex business requirements and delivering high-quality solutions. Certified in Tableau and Power BI, strongly committed to data quality, management, and visualization excellence.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ramashish-sahani-172a82195) 
