@@ -31,6 +31,7 @@ Results-driven Data Analyst with 4+ years of experience designing, developing, a
 ### You can find some of my best projects here.
 https://github.com/ramashish786/Rental-Movie-Store-Analysis<br>
 https://github.com/ramashish786/Project<br>
+https://github.com/ramashish786/power-bi-project<br>
 https://github.com/ramashish786/Machine-Learning-Project
 
 #### You can check my repositories to find more projects ---- https://github.com/ramashish786?tab=repositories
