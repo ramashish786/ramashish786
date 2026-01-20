@@ -26,7 +26,7 @@ Results-driven Data Analyst with 4+ years of experience designing, developing, a
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ### Featured Projects
-https://github.com/ramashish786/rag-based-application-with-streamlit
+https://github.com/ramashish786/rag-based-application-with-streamlit<br>
 https://github.com/ramashish786/Machine-Learning-Project/tree/master/Credit%20Score%20Prediction
 
 ### You can find some of my best projects here.
@@ -51,6 +51,7 @@ https://github.com/ramashish786/power-bi-project<br>
 [![](https://visitcount.itsvg.in/api?id=ramashish786&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
