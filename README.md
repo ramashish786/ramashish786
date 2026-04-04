@@ -26,8 +26,13 @@ Results-driven Data Analyst with 4+ years of experience designing, developing, a
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ### Featured Projects
+#### Resume Screening Agent
+https://github.com/ramashish786/Machine-Learning-Project/tree/master/GenAI/Resume%20Screeing%20Agent
+#### Talk with your Document
 https://github.com/ramashish786/rag-based-application-with-streamlit<br>
+#### Churn Rate Prediction
 https://github.com/ramashish786/Machine-Learning-Project/tree/master/Credit%20Score%20Prediction
+
 
 ### You can find some of my best projects here.
 https://github.com/ramashish786/Machine-Learning-Project<br>
