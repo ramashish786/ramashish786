@@ -8,19 +8,22 @@ AI / Machine Learning Engineer with 4.6 years of experience building and deployi
 
 # 💻 Tech Stack:
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-007ACC?style=for-the-badge)
+![ML Engineer](https://img.shields.io/badge/ML%20Engineer-FF6F00?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge)
 ![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-412991?style=for-the-badge)
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121D33?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Database-0A66C2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-purple?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 
 
 ### Featured Projects
