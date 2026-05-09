@@ -27,7 +27,7 @@ Results-driven Data Analyst with 4+ years of experience designing, developing, a
 
 ### Featured Projects
 #### Resume Screening Agent
-https://github.com/ramashish786/Machine-Learning-Project/tree/master/GenAI/Resume%20Screeing%20Agent
+https://github.com/ramashish786/resume-screening</br>
 #### Talk with your Document
 https://github.com/ramashish786/rag-based-application-with-streamlit<br>
 #### Churn Rate Prediction
