@@ -31,7 +31,7 @@ AI / Machine Learning Engineer with 4.6 years of experience building and deployi
 https://github.com/ramashish786/resume-screening</br>
 #### Recruitment Multi-Agent System with MCP Server
 https://github.com/ramashish786/resume_analyser_agent_with_mcp </br>
-#### Talk with your Document
+#### RAG-Based Agent for Q & A with multiple Documents 
 https://github.com/ramashish786/rag-based-application-with-streamlit<br>
 #### Churn Rate Prediction
 https://github.com/ramashish786/Machine-Learning-Project/tree/master/Credit%20Score%20Prediction
