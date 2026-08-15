@@ -29,6 +29,8 @@ AI / Machine Learning Engineer with 4.6 years of experience building and deployi
 ### Featured Projects
 #### Enterprise RAG system with RBAC, short-term and long-term memory, PII and Guardrails
 https://github.com/ramashish786/enterprise_rag_advance.git</br>
+#### BankingAI — Multi-Agent + HITL Banking Assistant
+https://github.com/ramashish786/banking-ai.git</br>
 #### Resume Screening Agent
 https://github.com/ramashish786/resume-screening</br>
 #### Recruitment Multi-Agent System with MCP Server
