@@ -27,6 +27,9 @@ Software Engineer and AI Engineer with 5 years of experience across Python engin
 
 
 ### Featured Projects
+### Fraud Ring Investigator
+An AI-assisted platform for investigating coordinated financial fraud. It traces money and identity links through a graph, retrieves similar historical cases and applicable policy, scores risk with deterministic rules, pauses for human review, and writes an evidence-cited report.
+https://github.com/ramashish786/fraud-ring-investigator.git<br>
 #### Enterprise RAG system with RBAC, short-term and long-term memory, PII and Guardrails
 https://github.com/ramashish786/enterprise_rag_advance.git</br>
 #### BankingAI — Multi-Agent + HITL Banking Assistant
